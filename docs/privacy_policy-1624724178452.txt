@@ -1,0 +1,8 @@
+This page is secure (valid HTTPS).
+Certificate - valid and trusted
+The connection to this site is using a valid, trusted server certificate issued by Entrust Certification Authority - L1M.
+View certificate
+Connection - secure connection settings
+The connection to this site is encrypted and authenticated using TLS 1.3, X25519, and AES_256_GCM.
+Resources - all served securely
+All resources on this page are served securely.
